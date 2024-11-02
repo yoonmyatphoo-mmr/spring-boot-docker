@@ -33,7 +33,7 @@ To get a local copy of the project up and running, follow these steps:
 Make sure you have the following installed on your machine:
 - [Java JDK 17](https://www.oracle.com/java/technologies/downloads/)
 - [Docker](https://www.docker.com/)
-- [Maven](https://www.docker.com/](https://maven.apache.org/download.cgi)
+- [Docker](https://maven.apache.org/download.cgi)
 
   
 ### 📝 Instructions
