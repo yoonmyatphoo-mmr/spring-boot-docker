@@ -49,15 +49,13 @@ docker build -t spring-boot-docker .
 
 * Run the Docker container:
 ```sh
-docker build -t spring-boot-docker .
-```
 docker run -p 9090:8080 spring-boot-docker
+```
 
 * Check container
 ```sh
-docker build -t spring-boot-docker .
-```
 docker ps
+```
 
 * check all containers including running container, not running container, unsuccessful running container
 ```sh
