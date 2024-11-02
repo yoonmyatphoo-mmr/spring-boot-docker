@@ -31,9 +31,9 @@ To get a local copy of the project up and running, follow these steps:
    
 ### 🔑 Prerequisites
 Make sure you have the following installed on your machine:
-Docker
-Java JDK 17
-Maven
+* Docker
+* Java JDK 17
+* Maven
 
 ### 📝 Instructions
 * Navigate to the project directory:
